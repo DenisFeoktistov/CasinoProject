@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/Вспомогательные .py файлы" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/Классы интерфейса" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/Классы интерфейса/Классы CasinoWindow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/Классы обработки запросов" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/Классы обработки запросов/Классы обработки запросов классов CasinoWindow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/Состовляющие класса Casino" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pythonProject/всякая всячина" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
